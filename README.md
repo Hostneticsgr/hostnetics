@@ -1,4 +1,4 @@
-# hostnetics
+# Hostnetics
 
 Web Hosting | Domains | Email
 
